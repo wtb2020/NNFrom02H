@@ -1,0 +1,15 @@
+I start this file to record my journey of Andrej Karphthy's series tutorial "Neural Networks: Zero to Hero".
+I would like to spend at least 2 hours every day to start this journey!
+
+
+
+20260627 
+  I would like to review the p1 micrograd. 
+  Before that, I would like to start to try to use doubao to teach me how to change the working directory of jupyter notebook while I was making a video call with my girl friend. And I failed.
+
+20260701
+  I started to continue learning how to change the working directory of jupyter notebook. 
+  This time I tried the more traditional way, use the search engine and ask "how to change the save directory of jupyter notebook". Then I found a zhihu doc to deal with the problem then I made it!
+  The url: https://zhuanlan.zhihu.com/p/59738776
+  One advantage is that after the sharing of the author, there are many people's discussions below, they issued there questions after trying and some others would also give feedback, the solution, the agreement and the disagreement.
+
