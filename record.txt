@@ -15,3 +15,7 @@ I would like to spend at least 2 hours every day to start this journey!
 
 20260713
   Sorry for that, I forgot to record how much time I spent, but today I finished following the micrograd and code it in the notebook, and push it to GitHub!
+
+20260717
+
+  Today I finally reviewed and followed the makemore p1 and uploaded the jupyter notebook to the GitHub!
