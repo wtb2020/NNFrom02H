@@ -13,3 +13,5 @@ I would like to spend at least 2 hours every day to start this journey!
   The url: https://zhuanlan.zhihu.com/p/59738776
   One advantage is that after the sharing of the author, there are many people's discussions below, they issued there questions after trying and some others would also give feedback, the solution, the agreement and the disagreement.
 
+20260713
+  Sorry for that, I forgot to record how much time I spent, but today I finished following the micrograd and code it in the notebook, and push it to GitHub!
